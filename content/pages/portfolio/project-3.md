@@ -1,7 +1,7 @@
 ---
 title: Platfoi
 subtitle: Platfoi
-date: '2019-04-08'
+date: '2019-04-05'
 thumb_image: /images/platfoi.PNG
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
