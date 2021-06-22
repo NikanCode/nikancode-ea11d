@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Pink Frog Jump
 subtitle: Pink Frog Jump
 date: '2019-04-30'
 thumb_image: /images/pink-frog.png
