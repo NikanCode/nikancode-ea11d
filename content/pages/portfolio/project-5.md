@@ -1,6 +1,6 @@
 ---
 title: Xantolo
-subtitle: Optional Project Subtitle
+subtitle: Xantolo
 date: '2019-01-05'
 thumb_image: /images/platzi.png
 thumb_image_alt: A white gamepad on a green background
