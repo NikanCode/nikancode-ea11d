@@ -81,7 +81,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: 'NikanCode - '
+  title: 'NikanCode - David Morales site '
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
