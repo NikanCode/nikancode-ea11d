@@ -1,6 +1,6 @@
 ---
 title: Platfoi
-subtitle: Optional Project Subtitle
+subtitle: Platfoi
 date: '2019-04-08'
 thumb_image: /images/platfoi.PNG
 thumb_image_alt: A yellow retro telephone on a yellow background
