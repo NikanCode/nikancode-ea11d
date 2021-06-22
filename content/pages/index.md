@@ -82,7 +82,8 @@ sections:
         style: button
 seo:
   title: 'NikanCode - David Morales site '
-  description: Mis Proyectos
+  description: |
+    Mis Proyectos
   extra:
     - name: 'og:type'
       value: website
