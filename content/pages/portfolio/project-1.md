@@ -5,7 +5,7 @@ date: '2020-11-01'
 thumb_image: /images/puzzle-bot.png
 thumb_image_alt: 'A simple Simon says puzzle game made with pico-8 and some '
 image: /images/puzzle-bot.png
-image_alt: 'White, black, and red shoe sole'
+image_alt: 'A simple Simon says puzzle game made with pico-8 and some '
 seo:
   title: Project Title 1
   description: This is the project 1 description
