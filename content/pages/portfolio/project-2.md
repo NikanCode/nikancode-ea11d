@@ -1,6 +1,6 @@
 ---
 title: Project Title 2
-subtitle: Optional Project Subtitle
+subtitle: Pink Frog Jump
 date: '2019-04-30'
 thumb_image: /images/pink-frog.png
 thumb_image_alt: An orange on a blue background
