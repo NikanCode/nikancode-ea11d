@@ -3,7 +3,6 @@ title: Platfoi
 subtitle: Platfoi
 date: '2021-03-05'
 thumb_image: /images/platfoi.PNG
-thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
