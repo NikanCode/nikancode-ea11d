@@ -3,7 +3,7 @@ title: Pink Frog Jump
 subtitle: Pink Frog Jump
 date: '2020-06-30'
 thumb_image: /images/pink-frog.png
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: a simple game of jumping with the little frog to reach the shore
 image: images/2.jpg
 image_alt: An orange on a blue background
 seo:
