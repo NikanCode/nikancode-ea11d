@@ -3,7 +3,7 @@ title: Platzi Pares
 subtitle: Platzi Pares
 date: '2021-11-26'
 thumb_image: /images/platzi.png
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: Platzi Pares
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 seo:
