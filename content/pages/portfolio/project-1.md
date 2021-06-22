@@ -1,6 +1,6 @@
 ---
 title: Project Title 1
-subtitle: Optional Project Subtitle
+subtitle: Puzzle Bot
 date: '2019-05-10'
 thumb_image: /images/puzzle-bot.png
 thumb_image_alt: 'A simple Simon says puzzle game made with pico-8 and some '
