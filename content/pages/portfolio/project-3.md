@@ -3,7 +3,7 @@ title: Platfoi
 subtitle: Platfoi
 date: '2021-03-05'
 thumb_image: /images/platfoi.PNG
-image: images/3.jpg
+image: /images/royal-zebra.PNG
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
