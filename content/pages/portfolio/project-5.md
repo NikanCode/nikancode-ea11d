@@ -1,5 +1,5 @@
 ---
-title: Xantolo
+title: Plat
 subtitle: Xantolo
 date: '2019-01-05'
 thumb_image: /images/platzi.png
