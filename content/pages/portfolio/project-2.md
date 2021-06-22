@@ -5,7 +5,7 @@ date: '2020-06-30'
 thumb_image: /images/pink-frog.png
 thumb_image_alt: a simple game of jumping with the little frog to reach the shore
 image: /images/pink-frog.png
-image_alt: An orange on a blue background
+image_alt: a simple game of jumping with the little frog to reach the shore
 seo:
   title: Project Title 2
   description: This is the project 2 description
