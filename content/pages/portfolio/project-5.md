@@ -1,5 +1,5 @@
 ---
-title: Plat
+title: Platzi Pares
 subtitle: Xantolo
 date: '2019-01-05'
 thumb_image: /images/platzi.png
