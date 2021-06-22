@@ -4,7 +4,7 @@ subtitle: Pink Frog Jump
 date: '2020-06-30'
 thumb_image: /images/pink-frog.png
 thumb_image_alt: a simple game of jumping with the little frog to reach the shore
-image: images/2.jpg
+image: /images/pink-frog.png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
