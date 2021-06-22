@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Xantolo
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: /images/xantolo.png
