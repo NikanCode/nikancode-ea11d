@@ -82,7 +82,7 @@ sections:
         style: button
 seo:
   title: 'NikanCode - David Morales site '
-  description: The preview of the Exto theme
+  description: Mis Proyectos
   extra:
     - name: 'og:type'
       value: website
