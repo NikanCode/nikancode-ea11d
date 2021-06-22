@@ -34,3 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
+You can play it in the following link:
+
+<https://nikancode.itch.io/frog>
