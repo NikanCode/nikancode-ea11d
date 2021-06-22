@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Puzzle Bot
 subtitle: Puzzle Bot
 date: '2019-05-10'
 thumb_image: /images/puzzle-bot.png
