@@ -5,7 +5,7 @@ date: '2021-11-26'
 thumb_image: /images/platzi.png
 thumb_image_alt: Platzi Pares
 image: /images/platzi.png
-image_alt: A white gamepad on a green background
+image_alt: Platzi Pares
 seo:
   title: Project Title 5
   description: This is the project 5 description
