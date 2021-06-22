@@ -1,7 +1,7 @@
 ---
 title: Puzzle Bot
 subtitle: Puzzle Bot
-date: '2020-11-10'
+date: '2020-11-01'
 thumb_image: /images/puzzle-bot.png
 thumb_image_alt: 'A simple Simon says puzzle game made with pico-8 and some '
 image: images/1.jpg
