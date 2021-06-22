@@ -3,7 +3,7 @@ title: Expresa 2020
 subtitle: Expresa 2020
 date: '2020-11-21'
 thumb_image: /images/splendid-parsley.png
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: Expresa 2020
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
