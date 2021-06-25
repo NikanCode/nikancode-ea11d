@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, i am David Morales'
     content: |
-      Professor | Programmer | Game Dev
+      ![](/\_static/app-assets/images/portada-linkedin-v2.png)
     actions:
       - label: Let's talk
         url: /contact
